@@ -1,8 +1,9 @@
 ![image](https://github.com/ams-OSRAM-Group/.github/assets/172606976/b34ed152-aa2a-4e08-b0af-de61e85274fe)
 
-# We are moving to https://github.com/ams-OSRAM
-We are currently moving our GitHub page to **https://github.com/ams-OSRAM**.
-All the links you currently have to this page will be automatically redirected to the new page and will continue to work.
+# We have moved to https://github.com/ams-OSRAM
+We have moved our GitHub page to **https://github.com/ams-OSRAM**.
+All the links you have to the old page will be automatically redirected to the new page and will continue to work.
+Yet we recommend to update the links, if possible.
 
 Example:
 
